@@ -20,6 +20,7 @@ This is a fork of [TIER IV's AWSIM](https://github.com/tier4/AWSIM).
 ### Feature differences from the TIER IV/AWSIM
 
 See [Feature differences from the TIER IV/AWSIM in the Autoware Documentation](https://autowarefoundation.github.io/autoware-documentation/main/tutorials/ad-hoc-simulation/digital-twin-simulation/awsim-tutorial/#feature-differences-from-the-awsim-and-awsim-labs).
+
 ## Try the simulation demo yourself!
 
 Run the AWSIM Labs demo with Autoware following the instructions in the [Quick start demo](./GettingStarted/QuickStartDemo/index.md).
